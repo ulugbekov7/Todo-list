@@ -28,3 +28,9 @@ Edit
 python app.py
 Open in browser:
 Go to http://127.0.0.1:5000
+
+
+
+<p align="center">
+  <img src="Pictures/to-do.png" width="500" alt="App Screenshot">
+</p>
